@@ -1,0 +1,36 @@
+body{
+	background-color: #570D01;
+	margin: 0;
+	font-family: 'Cherry Swash', cursive;
+}
+
+header{
+	background-color: #046417;
+}
+
+header h1{
+	color: black;
+
+}
+header img{
+	float: right;
+	border-radius: 150px;
+	width: 250px;
+	border:10px solid #483a94;
+}
+
+
+
+main{
+	background-color: forestgreen;
+}
+
+
+
+footer{
+	color: white;
+}
+
+footer a{
+	color: green;
+}
